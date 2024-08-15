@@ -1,6 +1,10 @@
 # upload-node-firebase
 Codigo node para subir datos json en lote a firebase mediante una clave generada por firestore.
 
+* Es importante tener instalado nodejs.
+* Es necesario también configurar las variables de entorno de nodejs:
+  - Vamos a Editar Variables de entorno => Variables de Entorno => Path => Editar => Nueva => Colocamos la ruta de nodejs del pc "C:\Program Files\nodejs" y Aceptar.
+
 # Pasos:
 
 #1. Crea un directoio en local para almacenar los 3 ficheros que requieres para la app node.
